@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Modpack #25 - Minecraft 1.7.10": {
+      "authentication": {
+        "displayName": "nahueMC",
+        "accessToken": "accessToken",
+        "uuid": "0004c61756e6468657246656e6978000",
+        "username": "nahueMC"
+      },
+      "name": "Modpack #25 - Minecraft 1.7.10",
+      "lastVersionId": "Modpack_25",
+      "javaArgs": "-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "typo": "NoPremium",
+      "useForge": false
+    }
+  },
+  "selectedProfile": "Modpack #25 - Minecraft 1.7.10",
+  "clientToken": "7555d62e9ac54f949bc6c658258e42cf"
+}

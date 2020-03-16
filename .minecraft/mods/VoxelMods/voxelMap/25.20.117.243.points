@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+name:HOME,x:2193,z:879,y:98,enabled:true,red:0.023529412,green:0.8901961,blue:0.6509804,suffix:,world:,dimensions:0#
+name:mina a,x:2077,z:833,y:29,enabled:true,red:0.5449659,green:0.5096175,blue:0.10050571,suffix:,world:,dimensions:0#
+name:mina b,x:233,z:275,y:27,enabled:true,red:0.3615533,green:0.9266545,blue:0.23663473,suffix:,world:,dimensions:0#
+name:Latest Death,x:223,z:301,y:9,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:Skull,world:,dimensions:0#
